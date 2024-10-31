@@ -1,0 +1,44 @@
+
+.orbisius_support_tickets_view_ticket_author_msg {
+    border: 1px solid #aaa;
+    /*background: #aaa;*/
+    padding: 3px;
+}
+
+.orbisius_support_tickets_view_ticket_rep_msg {
+    border: 1px solid #aaa;
+    background: #ccc;
+    padding: 3px;
+}
+
+.orbisius_support_tickets_full_width {
+    width: 100%;
+}
+
+.orbisius_support_tickets_app_alert {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.orbisius_support_tickets_app_error {
+    color:red;
+}
+
+.orbisius_support_tickets_app_success {
+    color:green;
+}
+
+.orbisius_support_tickets_view_ticket_wrapper .ticket_content_wrapper {
+    margin: 10px 0;
+    background: #eee;
+    padding: 5px;
+}
+
+.orbisius_support_tickets_view_ticket_wrapper .orbisius_support_tickets_close_ticket_wrapper {
+    text-align: right;
+}
+
+.orbisius_support_tickets_view_ticket_wrapper .ticket_meta_ticket_item {
+    display: inline-block;
+}
+
